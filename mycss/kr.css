@@ -1,7 +1,16 @@
 body{
 
- background-color:		#FFE4E1;
+ background-color:#FFE4E1;
  font-family:times;
  color:	#000000;
  
+}
+a:link{
+	color: 	#000000;
+	text-decoration: none;
+}
+
+a:visited{
+	color:black;
+	text-decoration: none;
 }
